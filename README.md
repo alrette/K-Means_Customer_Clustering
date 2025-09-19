@@ -1,6 +1,5 @@
 # 🛍️ Customer Segmentation for Clothing Store
-This project applies clustering to segment customers based on their shopping behavior, preferences, and demographics.  
-The analysis uses multiple dimensions such as gender, product categories, sizes, seasonality, subscription/promo usage, payment/shipping preferences, and color preferences.
+This project applies clustering to segment customers based on their shopping behavior, preferences, and demographics. The analysis uses multiple dimensions such as gender, product categories, sizes, seasonality, subscription/promo usage, payment/shipping preferences, and color preferences.
 
 In today’s fast-paced e-commerce landscape, understanding customers isn’t just a strategy—it’s a necessity. Our task is to design a customer clustering framework to unlock valuable insights into customer behavior. This approach will allow us to segment customers based on their purchasing patterns, preferences, and demographics.
 
