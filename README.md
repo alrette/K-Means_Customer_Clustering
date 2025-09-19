@@ -8,7 +8,6 @@ Why does this matter? Because not all customers are the same. A one-size-fits-al
 This isn’t just about boosting sales—it’s about creating personalized experiences that make customers feel understood and valued. It’s about fostering loyalty in an environment where customer retention is more critical than ever.
 
 By leveraging clustering, we’re not just analyzing data; we’re shaping strategies that align with customer needs, driving business growth and long-term success.
-
 ---
 
 ## 📊 Clustering Performance
